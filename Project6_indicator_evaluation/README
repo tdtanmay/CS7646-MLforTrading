@@ -1,0 +1,9 @@
+The project developed a Theoretically Optimal trading Strategy, and 5 technical indicators(price/SMA ratio, Bollinger Bands, Momentum, price/EMA ratio, and MACD). 
+
+Marketsimcode.py: gives an orders array, returns a portfolio total value data frame between the start date and the end date.
+
+TheoreticallyOptimalStrategy.py: comparing theoretically optimal trading strategy with benchmark.
+
+indicators.py: select 5 technical indicators as functions that operate on DataFrames.
+
+To run the program, run TheoreticallyOptimalStrategy.py, then indicators.py to generate charts
